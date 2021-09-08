@@ -1,0 +1,17 @@
+.GroceryList-heading {
+    color: #f5f5f5;
+    font-size: 5rem;
+    text-align: center;
+    opacity: 0.9;
+}
+
+.GroceryList-ul {
+    height: 100%;
+    width: 1000px;
+    margin-top: 3rem;
+    background: #FFE3EA;
+    color: #f5f5f5;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+}
