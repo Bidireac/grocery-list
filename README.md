@@ -27,4 +27,4 @@ Project is:  _finished
 
 ## Live Demo
 
-https://razvan-calculator.herokuapp.com/
+https://razvan-grocery-list.herokuapp.com/
