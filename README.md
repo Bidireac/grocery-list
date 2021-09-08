@@ -8,7 +8,7 @@
 * [Status](#status)
 
 ## General info
-Using the React forms, you can add groceries and their respective quantity, modify them and also delete them.
+Using the React forms, you can add groceries and their respective quantity, modify them and also remove them.
 	
 ## Technologies
 Project is created with:
